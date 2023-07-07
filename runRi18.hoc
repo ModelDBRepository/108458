@@ -1,7 +1,7 @@
 // ====================================================================== //
 // This hoc file starts simulation of AP backpropagation
 // in basal dendrites of cortical layer 5 pyramidal neurons
-// as shown in Kampa & Stuart (2006) J Neurosci 26(28):7424 –7432
+// as shown in Kampa & Stuart (2006) J Neurosci 26(28):7424 â€“7432
 // 
 // File runs a simulation plotting voltage and calcium concentration
 // in soma and basal dendrite of Ri18 model neuron from Stuart & Spruston
