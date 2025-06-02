@@ -55,9 +55,8 @@ or a TTX experiment blocking local Na channels.
 created by B. Kampa (2006)
 kampa@hifo.uzh.ch
 
+## Changelog
 20120126 Cad.mod solve method updated to derivimplicit from euler as per
 http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592
-
----
 
 2025-05-30: Standardized to Markdown
